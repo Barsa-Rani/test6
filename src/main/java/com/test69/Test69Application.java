@@ -10,6 +10,7 @@ public class Test69Application {
 		int x=28;
 		char j='a';
 		boolean y=true;
+		double f=10.9;
 		SpringApplication.run(Test69Application.class, args);
 	}
 
