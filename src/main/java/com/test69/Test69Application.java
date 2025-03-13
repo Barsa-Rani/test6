@@ -11,7 +11,8 @@ public class Test69Application {
 		char j='a';
 		boolean y=true;
 		char d='s';
-		SpringApplication.run(Test69Application.class, args);
+		double f=10.9;
+	SpringApplication.run(Test69Application.class, args);
 	}
 
 }
